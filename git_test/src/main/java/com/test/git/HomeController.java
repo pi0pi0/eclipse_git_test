@@ -35,7 +35,7 @@ public class HomeController {
 		
 		System.out.println(" hello gittttttttt ");
 		System.out.println("마스터로 변경한부분");
-		
+		System.out.println(" hotfix changeeeeee ");
 		return "home";
 	}
 	
